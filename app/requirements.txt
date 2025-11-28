@@ -1,0 +1,9 @@
+gradio
+sounddevice
+librosa
+torch
+midiutil
+transformers
+pydantic
+scipy
+numpy
