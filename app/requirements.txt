@@ -1,0 +1,7 @@
+gradio
+SpeechRecognition
+pydub
+transformers
+torch
+gTTS
+librosa
