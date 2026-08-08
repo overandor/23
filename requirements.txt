@@ -1,0 +1,6 @@
+rich
+solders
+solana
+anchorpy
+driftpy
+prometheus-client
